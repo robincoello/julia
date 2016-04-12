@@ -728,6 +728,8 @@ $(eval $(call LLVM_PATCH,llvm-3.8.0_winshlib))
 $(eval $(call LLVM_PATCH,llvm-3.8.0_threads))
 # fix replutil test on unix
 $(eval $(call LLVM_PATCH,llvm-D17165))
+$(eval $(call LLVM_PATCH,llvm-D18583))
+$(LLVM_SRC_DIR)/llvm-D18583.patch-applied: $(LLVM_SRC_DIR)/llvm-D17165.patch-applied
 endif # LLVM_VER
 
 ifeq ($(LLVM_VER),3.7.1)

@@ -7,6 +7,9 @@ https://robincoello.gitbooks.io/latinodesarrolladores/content
 Chat de desarrolladores para latino y Julia
 https://gitter.im/primitivorm/latino
 
+Programación de base para Latino y Julia
+https://robincoello.gitbooks.io/latino/content/
+
 
 
 

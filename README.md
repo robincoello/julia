@@ -1,4 +1,15 @@
+Lista de tareas: 
 https://huboard.com/robincoello/julia/
+
+Manual de desarrollador
+https://robincoello.gitbooks.io/latinodesarrolladores/content
+
+Chat de desarrolladores para latino y Julia
+https://gitter.im/primitivorm/latino
+
+
+
+
 
 <a name="logo"/>
 <div align="center">
